@@ -12,6 +12,7 @@ function App() {
         <Card>
           <CardContent>
             <h3>Simle TODO App 5</h3>
+            <p>a paragraph</p>
             <TodoForm />
             <TodoList />
           </CardContent>
